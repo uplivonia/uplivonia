@@ -24,13 +24,6 @@ Used as the base architecture for client projects.
 
 ---
 
-### 🤖 Telegram Shop Bot
-A Telegram bot for digital product sales and automation.  
-Features: categories, products, coupons, orders, admin panel.  
-👉 https://github.com/uplivonia/telegram-shop
-
----
-
 ### 🔌 API & Automation Tools
 Small utilities for workflow automation, scraping, integrations, and reports.
 
