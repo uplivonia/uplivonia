@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Victor 👋  
+**Python Developer — Bots, APIs, Automation, Mini SaaS**
 
-<!--
-**uplivonia/uplivonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automation tools, Telegram bots, API integrations and small SaaS apps using Python & FastAPI.  
+Focused on clean architecture, fast delivery, and real business value.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Python**, FastAPI, Flask  
+- PostgreSQL, SQLite  
+- Telegram Bot API  
+- REST APIs  
+- Docker, Git  
+- JavaScript (for bot panels/UI when needed)
+
+---
+
+## 🚀 Projects
+
+### ⭐ Subscription SaaS Platform (private/main project)
+A mini SaaS system with authentication, billing logic, admin tools, and API endpoints.  
+Used as the base architecture for client projects.
+
+---
+
+### 🤖 Telegram Shop Bot
+A Telegram bot for digital product sales and automation.  
+Features: categories, products, coupons, orders, admin panel.  
+👉 https://github.com/uplivonia/telegram-shop
+
+---
+
+### 🔌 API & Automation Tools
+Small utilities for workflow automation, scraping, integrations, and reports.
+
+---
+
+## 📫 Contact Me  
+📨 Telegram: https://t.me/pydevforyou
